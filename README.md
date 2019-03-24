@@ -7,7 +7,7 @@ It is an implementation of snake game in C language using **<termios.h>** librar
 	gcc -pthread Snake.C -o Snake.out
 	./Snake.out
 ## Output
-	![](Snake.gif)
+![](Snake.gif)
 
 
 
